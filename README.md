@@ -38,6 +38,8 @@ Ah, and it seems I have a tendency to bump into security vulnerabilities in the 
 - **Anbernic RG Rotate** - recently bought. Runs FTP and SSH servers. I back up my games to the Seagate and play on the big screen via scrcpy. No Google account linked.
 - **Huawei Nova 8i** - runs OpenClaw! Fully de-googled by design (post sanctions Huawei device).
 
+After years of feeling immune, I just fell down the keyboard rabbit hole. I'm retiring my beloved **MX Keys S** and welcoming a **Keychron C3 Pro 8K** to the setup. Time to play with QMK!
+
 ### Community
 I coordinate the Google Developer Group in Lleida and have mentored for Google Summer of Code for a few years.
 
